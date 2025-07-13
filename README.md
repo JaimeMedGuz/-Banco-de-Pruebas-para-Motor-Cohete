@@ -92,3 +92,4 @@ Entre otros..
 
 Debes modificar el factor de calibración en el codigo de arduino dependiendo tu peso conocido. 
 
+float factor = 8658.36;  // Factor calibrado con 7.265kg
