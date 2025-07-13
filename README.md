@@ -88,7 +88,7 @@ Apogeo estimado
 Relación empuje/peso
 Entre otros..
 
-#🧪 Calibración
+## 🧪 Calibración
 
 Debes modificar el factor de calibración en el codigo de arduino dependiendo tu peso conocido. 
 
