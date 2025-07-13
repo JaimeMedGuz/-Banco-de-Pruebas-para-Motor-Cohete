@@ -48,6 +48,14 @@ Verde → A+
 
 Solo descarga el archivo .exe y distruta
 
+![Vista1](docs/Vista1.png)
+
+![Vista2](docs/Vista2.png)
+
+![Vista3](docs/Vista3.png)
+
+![Vista4](docs/Vista4.png)
+
 # Para desarrolladores que deseen hacer modificaciones al código entonces instalar dependencias:
 pip install -r app/requirements.txt
 
